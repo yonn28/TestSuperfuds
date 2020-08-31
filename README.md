@@ -1,6 +1,6 @@
 # TestSuperfuds
 
-## please install all dependencys with
+## please install all dependencies with
 
  npm i package.json
 
