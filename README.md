@@ -1,17 +1,17 @@
 # TestSuperfuds
 
-please install all dependencys with
+## please install all dependencys with
 
-## npm i package.json
+ npm i package.json
 
-the entry point is at 3000 port in localhost, this is executed with
+## the entry point is at 3000 port in localhost, this is executed with
 
-## node app/index
+ node app/index
 
-or 
+## or 
 
-## nodemon app/index
+ nodemon app/index
 
-open with postman at
+## open with postman at
 
-## localhost:3000
+ localhost:3000
